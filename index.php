@@ -30,7 +30,7 @@
 		          <a class="nav-link" href="https://www.youtube.com/channel/UCZBd1IVfLRx73KpYh2RD3Uw">Youtube</a>
 		        </li>
 		        <li class="nav-item">
-		          <a class="nav-link" href="#">Lore</a>
+		          <a class="nav-link" href="https://trakteer.id/araa-akane-sakura-ch-ibqzf">Trakteer</a>
 		        </li>
 
 		        <li class="nav-item dropdown">
@@ -38,9 +38,9 @@
             Media sosial
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Instagram</a></li>
-            <li><a class="dropdown-item" href="#">Facebook</a></li>
-            <li><a class="dropdown-item" href="#">Twiter</a></li>
+            <li><a class="dropdown-item" href="https://www.instagram.com/araa_akanechan/">Instagram</a></li>
+            <li><a class="dropdown-item" href="https://www.facebook.com/mutia.chan.184">Facebook</a></li>
+            <li><a class="dropdown-item" href="#">Twiter (coming soon)</a></li>
           </ul>
         </li>
 
